@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="OgreStack.PersistentData.OgreStackSettings">
-		<Medicine_Value>100</Medicine_Value>
-	</ModSettings>
-</SettingsBlock>
