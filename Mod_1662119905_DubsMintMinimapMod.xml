@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="DubsMintMinimap.Settings">
-		<StaticRectPos>(1604.0, 105.0)</StaticRectPos>
+		<StaticRectPos>(1614.0, 122.0)</StaticRectPos>
 		<MinimapOpen>True</MinimapOpen>
 		<NaturalTerrain>True</NaturalTerrain>
 		<ShowCorpses>True</ShowCorpses>
@@ -10,6 +10,6 @@
 		<multi21>200</multi21>
 		<MapRes>1</MapRes>
 		<BtnPos>200</BtnPos>
-		<LastVersion>31646</LastVersion>
+		<LastVersion>7307</LastVersion>
 	</ModSettings>
 </SettingsBlock>
