@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Multiplayer.Client.MpSettings">
+		<username>Nexxes</username>
+		<autosaveSlots>10</autosaveSlots>
+		<serverSettings>
+			<autosaveInterval>1</autosaveInterval>
+			<pauseOnAutosave>True</pauseOnAutosave>
+			<steam>True</steam>
+			<lan>False</lan>
+		</serverSettings>
+	</ModSettings>
+</SettingsBlock>

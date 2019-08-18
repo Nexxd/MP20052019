@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FactionControl.Settings">
+		<factionGrouping>3.15668988</factionGrouping>
+		<factionDensity>3.33463573</factionDensity>
+		<allowMechanoids>False</allowMechanoids>
+	</ModSettings>
+</SettingsBlock>

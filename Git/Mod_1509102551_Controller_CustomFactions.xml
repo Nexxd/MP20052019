@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FactionControl.Settings_ModdedFactions">
+		<customFactions>
+			<li>
+				<faction>MultiplayerDummy</faction>
+				<requiredCount>0</requiredCount>
+			</li>
+		</customFactions>
+	</ModSettings>
+</SettingsBlock>

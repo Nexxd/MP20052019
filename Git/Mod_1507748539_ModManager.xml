@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ModManager.ModManagerSettings">
+		<ModAttributes>
+			<li>
+				<Identifier>__LocalCopy_OgreStack_-18-8</Identifier>
+				<SourceMod>1447140290</SourceMod>
+				<SourceHash>9e2f7abe2cd274e627cfd4792a44d191</SourceHash>
+			</li>
+		</ModAttributes>
+		<ButtonAttributes />
+	</ModSettings>
+</SettingsBlock>
